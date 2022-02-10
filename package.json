@@ -1,0 +1,14 @@
+{
+  "name": "mailspring-theme-spark",
+  "displayName": "Spark-Small",
+  "theme": "spark",
+  "version": "1.0.0",
+  "description": "mailspring-theme-spark",
+  "license": "GPL-3.0",
+  "engines": {
+    "nylas": "*",
+    "mailspring": "*"
+  },
+  "private": true
+}
+

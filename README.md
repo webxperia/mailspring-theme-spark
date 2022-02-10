@@ -1,2 +1,0 @@
-# Theme mailspring-theme-spark
-
